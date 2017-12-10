@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">myapp</string>
+    <string name="tittle">Welcome</string>
+    <string name="email_address">Email_Address</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="image">image</string>
+    <string name="love_you">LOVE YOU</string>
+    <string name="text1">Did you forget your password??</string>
+    <string name="fb">Login with Facebook</string>
+
+</resources>
